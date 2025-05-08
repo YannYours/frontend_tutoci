@@ -1,0 +1,20 @@
+:root {
+    --primary-color: #ff7800;
+    --secondary-color: #0a0a0a;
+    --accent-color: #e63946;
+    --bg-light: #ffffff;
+    --text-color: #100e0c;
+    --text-light: #ffffff;
+    --text-hover: #ff8859;
+    --transition-speed: 0.3s;
+    --transition-timing: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    --navbar-height: 80px;
+    --navbar-height-scrolled: 70px;
+    --shadow-soft: 0 5px 15px rgba(0, 0, 0, 0.1);
+    --shadow-strong: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+body {
+    font-family: "Nunito", sans-serif;
+}
+

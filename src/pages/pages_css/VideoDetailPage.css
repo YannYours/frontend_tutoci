@@ -1,0 +1,39 @@
+.video-detail-page {
+  background-color: #f8f9fa;
+  min-height: 100vh;
+  padding-bottom: 3rem;
+  margin-top: 5rem;
+}
+
+.breadcrumb-nav {
+  display: flex;
+  align-items: center;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.breadcrumb-item {
+  text-decoration: none;
+  color: #555;
+  transition: color 0.3s ease;
+}
+
+.breadcrumb-item:hover {
+  color: #FF6B00;
+}
+
+.breadcrumb-item.active {
+  color: #FF6B00;
+  font-weight: 500;
+}
+
+.breadcrumb-separator {
+  margin: 0 0.5rem;
+  color: #aaa;
+}
+
+@media (max-width: 992px) {
+  .breadcrumb-nav {
+    font-size: 0.8rem;
+  }
+}
