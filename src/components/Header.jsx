@@ -5,7 +5,7 @@ export default function Header() {
 
     return (
         <header>
-            <nav className={`navbar navbar-expand-lg fixed-top`}>
+            <nav className='navbar navbar-expand-lg fixed-top'>
                 <div className="container">
                     <a className="navbar-brand" href="/">
                         <img
@@ -30,7 +30,6 @@ export default function Header() {
                             <span className="hamburger-line" />
                         </span>
                     </button>
-
                 </div>
             </nav>
         </header>
