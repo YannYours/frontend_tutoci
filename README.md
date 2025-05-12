@@ -1,6 +1,6 @@
-# Tutoci 🎬
+# TutoCI 🎬
 
-Tutoci est une application web de diffusion de vidéos éducatives gratuites, réalisée dans le cadre de l’évaluation du projet transmis le 03 mai 2025.
+TutoCI est une application web de diffusion de vidéos éducatives gratuites, réalisée dans le cadre de l’évaluation du projet transmis le 03 mai 2025.
 
 Ce projet a été développé entre le 05 et le 14 mai, et sera présenté le **samedi 17 mai 2025**.
 
