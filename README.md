@@ -75,7 +75,6 @@ cd backend_tutoci
 npm install
 npm run dev
 
-```bash
 git clone https://github.com/YannYours/frontend_tutoci.git
 cd frontend_tutoci
 npm install
